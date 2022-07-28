@@ -48,7 +48,6 @@
 						arr[k] = json[k]
 					}
 				}
-				console.log(arr)
 				var data = document.querySelector('.data');
 				var dataBox = document.querySelectorAll('.dataBox');
 				// console.log(dataBox)
