@@ -1,8 +1,12 @@
 
+
+
 <html>
 	<head>
 		<meta charset="utf-8" />
+		
 		<style type="text/css">
+			
 			.search {
 				display: flex;
 				align-items: center;
