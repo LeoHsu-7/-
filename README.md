@@ -2,7 +2,6 @@
 <html>
 	<head>
 		<meta charset="utf-8" />
-		<title></title>
 		<style type="text/css">
 			.search {
 				display: flex;
@@ -60,7 +59,7 @@
 					let dataBox = document.createElement('div');
 					dataBox.className = "dataBox";
 					dataBox.innerHTML = "<div style='border: solid 1px black;font-size:24px'>" + count +
-						"题目:" + k + "</div>" + "<div style='border: solid 1px black;color:red;font-size:24px;'>" +
+						"、题目:" + k + "</div>" + "<div style='border: solid 1px black;color:red;font-size:24px;'>" +
 						"答案:" + arr[k] + "</div>" + "</br>";
 					data.appendChild(dataBox);
 					count++;
