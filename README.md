@@ -1,8 +1,17 @@
+
+
+
+<!DOCTYPE html>
+
+
+
 <html>
-	
-	
+
+
+
 	<head>
-		<meta charset="utf-8" />	
+		<title></title>
+		<meta charset="utf-8" />
 		<style type="text/css">
 			.search {
 				display: flex;
