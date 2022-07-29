@@ -115,7 +115,7 @@
 			</a>
 		</div>
 	</body>
-	<script src="https://cdn.bootcdn.net/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+	<script src="./js/jquery-2.0.0.min.js"></script>
 	<script type="text/javascript">
 		var xhttp = new XMLHttpRequest();
 		xhttp.open("get", "./js/data.json");
