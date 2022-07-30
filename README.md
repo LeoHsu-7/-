@@ -21,7 +21,6 @@
 				display: flex;
 				flex-direction: column;
 				justify-content: center;
-				width: 80vw;
 				margin: auto;
 			}
 
@@ -66,8 +65,7 @@
 			.right-bar .bar-box .original-box {
 				border: solid 1px black;
 				width: 40px;
-				height: 30px;
-				padding-top: 10px;
+				height: 40px;
 				border-radius: 20px;
 				cursor: pointer;
 			}
@@ -80,9 +78,8 @@
 				border-radius: 20px;
 				position: absolute;
 				top: 0px;
-				right: -3px;
-				height: 30px;
-				padding-top: 10px;
+				right: 0px;
+				height: 40px;
 			}
 
 			.right-bar a:hover .original-box {
