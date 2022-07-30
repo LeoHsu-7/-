@@ -65,7 +65,7 @@
 			.right-bar .bar-box .original-box {
 				border: solid 1px black;
 				width: 40px;
-				height: 40px;
+				height: 30px;
 				border-radius: 20px;
 				cursor: pointer;
 			}
@@ -79,7 +79,7 @@
 				position: absolute;
 				top: 0px;
 				right: 0px;
-				height: 40px;
+				height: 30px;
 			}
 
 			.right-bar a:hover .original-box {
